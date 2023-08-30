@@ -1,0 +1,7 @@
+Requirement already satisfied: dask in /home/ramyazdi/anaconda3/lib/python3.8/site-packages (2021.6.2)
+Requirement already satisfied: cloudpickle>=1.1.1 in /home/ramyazdi/anaconda3/lib/python3.8/site-packages (from dask) (1.6.0)
+Requirement already satisfied: pyyaml in /home/ramyazdi/anaconda3/lib/python3.8/site-packages (from dask) (5.4.1)
+Requirement already satisfied: toolz>=0.8.2 in /home/ramyazdi/anaconda3/lib/python3.8/site-packages (from dask) (0.11.1)
+Requirement already satisfied: partd>=0.3.10 in /home/ramyazdi/anaconda3/lib/python3.8/site-packages (from dask) (1.2.0)
+Requirement already satisfied: fsspec>=0.6.0 in /home/ramyazdi/anaconda3/lib/python3.8/site-packages (from dask) (2023.6.0)
+Requirement already satisfied: locket in /home/ramyazdi/anaconda3/lib/python3.8/site-packages/locket-0.2.1-py3.8.egg (from partd>=0.3.10->dask) (0.2.1)
